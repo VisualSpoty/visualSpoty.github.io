@@ -1,1 +1,1 @@
-# visual_Spoty.github.io
+# visualSpoty.github.io
